@@ -11,4 +11,14 @@ console.log(userName);
 
 // proměnné pro věk obou lidí
 
+let ageL = 17;
+console.log(ageL)
+let ageF = 16;
+console.log(ageF)
 
+// součet věků
+
+let soucet = ageL+ ageF;
+console.log(soucet)
+
+//věty s oběma jmény a součtem
