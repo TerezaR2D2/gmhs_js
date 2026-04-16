@@ -22,3 +22,6 @@ let soucet = ageL+ ageF;
 console.log(soucet)
 
 //věty s oběma jmény a součtem
+
+let text = usernameL + " a " + username + " mají " + soucet + "let"
+console.log (text)
