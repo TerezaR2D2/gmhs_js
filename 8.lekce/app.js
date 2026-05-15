@@ -32,12 +32,12 @@ test("Tomáš");
 test("Ema");
 test(123)
 
-function scitani(num1, num2) 
+function scitani(num1, num2){
     console.log(num1 + num2)
     console.log(num1 - num2)
     console.log(num1 * num2)
     console.log(num1 / num2)
-
+}
 
 scitani(4,6)
 
